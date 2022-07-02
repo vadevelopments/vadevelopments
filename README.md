@@ -1,24 +1,24 @@
 # Hi 👋, I'm **Aldrin**.
->Passionate in building e-commerce web apps using Laravel.
+Passionate in building e-commerce web apps using Laravel.
 
 ## **Full Stack Web Developer || Virtual Assistant**
 
 ## About Me
->Exceptionally creative and dependable Entry Level Web Developer with a stellar customer service record and superb work ethic. Aiming to develop an ecommerce webapp, customer web portal, and documentary launch website. Passionate about software architecture and cloud computing.
+Exceptionally creative and dependable Entry Level Web Developer with a stellar customer service record and superb work ethic. Aiming to develop an ecommerce webapp, customer web portal, and documentary launch website. Passionate about software architecture and cloud computing.
 
 ## Languages and Tools
--HTML
--CSS
--JavaScript
--PHP
--Laravel
--Tailwind
--Material UI
--React
--Python
--Github
--Figma
--Postman
+HTML
+CSS
+JavaScript
+PHP
+Laravel
+Tailwind
+Material UI
+React
+Python
+Github
+Figma
+Postman
 
 <!--
 **vadevelopments/vadevelopments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
