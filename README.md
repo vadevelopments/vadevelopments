@@ -1,7 +1,7 @@
 # Hi 👋, I'm **Aldrin**.
 Passionate in building e-commerce web apps using Laravel.
 
-## **Full Stack Web Developer || Virtual Assistant**
+## **Web Developer || Virtual Assistant**
 
 ## About Me
 Exceptionally creative and dependable Entry Level Web Developer with a stellar customer service record and superb work ethic. Aiming to develop an ecommerce webapp, customer web portal, and documentary launch website. Passionate about software architecture and cloud computing.
