@@ -19,6 +19,17 @@ Python
 Github
 Figma
 Postman
+LESS
+Bootstrap
+jQuery
+SQL
+Ajax
+CodeIgniter
+Express
+ES6
+Node.js
+Socket.io
+OOP
 
 <!--
 **vadevelopments/vadevelopments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
