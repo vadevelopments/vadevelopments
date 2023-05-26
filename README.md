@@ -1,47 +1,37 @@
 # Hi 👋, I'm **Aldrin**.
-Passionate in building e-commerce web apps using Laravel.
+Passionate in building e-commerce web apps using Laravel/MERN/CodeIgniter.
 
-## **Web Developer || Virtual Assistant**
+## **Software Developer || Virtual Assistant**
 
 ## About Me
-Exceptionally creative and dependable Entry Level Web Developer with a stellar customer service record and superb work ethic. Aiming to develop an ecommerce webapp, customer web portal, and documentary launch website. Passionate about software architecture and cloud computing.
+Highly motivated software developer with a strong focus on web development technologies. Proficient in HTML, CSS, PHP, and JavaScript, with a solid understanding of software development principles. Completed a comprehensive software development training program with a specialization in web technologies. Passionate about designing and creating user-friendly web applications that provide exceptional user experiences. Excels in problem-solving and has a proven ability to quickly learn and adapt to new technologies.
 
-## Languages and Tools
-HTML
-CSS
-JavaScript
-PHP
-Laravel
-Tailwind
-Material UI
-React
-Python
-Github
-Figma
-Postman
-LESS
-Bootstrap
-jQuery
-SQL
-Ajax
-CodeIgniter
-Express
-ES6
-Node.js
-Socket.io
-OOP
+## Languages, Frameworks and Tools
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Tailwind
+* Bootstrap
+* Material UI
+* React
+* Python
+* Github
+* Figma
+* Postman
+* LESS
+* jQuery
+* MySQL
+* MongoDB
+* Ajax
+* Laravel
+* CodeIgniter
+* Express
+* ES6
+* Node.js
+* Socket.io
+* OOP
 
-<!--
-**vadevelopments/vadevelopments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **How to reach me**
+Email: afpaduelan@gmail.com <br>
+Skype: live:.cid.e2944655417a2444
