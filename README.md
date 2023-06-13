@@ -31,6 +31,7 @@ Highly motivated software developer with a strong focus on web development techn
 * Node.js
 * Socket.io
 * OOP
+* WordPress
 
 ## **How to reach me**
 Email: afpaduelan@gmail.com <br>
